@@ -20,7 +20,7 @@ If any of the content has been helpful, feel free to [Monzo Me](https://monzo.me
 > 1. Speak Chinese with a Tianjin accent
 > 1. Drink Trung Nguyen with a Vietnamese phin
 > 1. Highlight pdfs or books on Kindle with the intent of making detailed notes
-> 1. On the odd occasion i'll make a YouTube video
+> 1. On the odd occasion I'll make a YouTube video
 
 **If any of the above resonates with you, get in touch**
 
