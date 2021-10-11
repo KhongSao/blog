@@ -1,4 +1,4 @@
-baseurl = "https://khongsao.github.io/osite.github.io/"
+baseurl = "http://khongsao.github.io/blog/"
 title = "Mr O'Shea"
 
 theme = "coder-portfolio"
