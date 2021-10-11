@@ -1,5 +1,5 @@
 +++
-title = "oct2021"
+title = "Life in the Trenches"
 date = "2020-08-09"
 menu = "Books"
 +++
