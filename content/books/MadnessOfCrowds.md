@@ -19,7 +19,7 @@ menu = "Books"
 
 ! [madness](https://khongsao.github.io/cblog.github.io/images/madofc.jpg)
 
-![madness](https://khongsao.github.io/blog.github.io/images/madofc.jpg)
+![madness](https://khongsao.github.io/images/madofc.jpg)
 -----
 
 
