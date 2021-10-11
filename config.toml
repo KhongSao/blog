@@ -1,3 +1,153 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://khongsao.github.io/osite.github.io/"
+title = "Mr O'Shea"
+
+theme = "coder-portfolio"
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+#disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Chris O'Shea"
+    description = "Chris O'Shea's personal website"
+    keywords = "teaching,education,GCSE"
+    info = "Teaching and Thoughts"
+    avatarurl = "images/avatar.jpg"
+    footercontent = "The hardest thing to write is your own name"
+    fixedbarContent = "Want to do me a favour? "
+    fixedbarContentAfter = "Thank You! Please share →"
+
+    hideCredits = true
+    hideCopyright = true
+
+    #Bottom sns share thumbnail = "blogimages/itclass.png" images/avatar.jpg
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = true
+    enableFacebookShare = false
+    enableHatenaShare = false
+    enableLineShare = false
+    enableLinkedInShare = false
+    enableTwemoji = true
+
+    #thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+#   langseparator = "|"
+
+#[[params.social]]
+#    name = "Github"
+#    icon = "fab fa-github"
+#    weight = 1
+#    url = "https://github.com/naro143/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 2
+    url = "https://twitter.com/c4history/"
+[[params.social]]
+    name = "YouTube"
+    icon = "fab fa-youtube"
+    weight = 2
+    url = "https://www.youtube.com/c/lessonsinhistory/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram"
+    weight = 2
+    url = "https://www.instagram.com/lessonsinhistory/"
+# [[params.social]]
+#    name = "Reddit"
+#    icon = "fab fa-reddit"
+#    weight = 2
+#    url = "https://www.reddit.com/users/ChairMao"
+#[[params.social]]
+#    name = "LinkedIn"
+#    weight = 4
+#    url = "https://www.linkedin.com/in/naro143/"
+
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Welcome to my second brain"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = "Lessons In History"
+            info = "Teaching and Thoughts"
+            description = "Chris' random musings"
+            keywords = "teacher,commentator,personal"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+            [[languages.en.menu.main]]
+                name = "Chris Comments"
+                weight = 1
+                url = "posts"
+
+            [[languages.en.menu.main]]
+                name = "Books"
+                weight = 2
+                url = "books"
+
+            [[languages.en.menu.main]]
+                name = "Teaching"
+                weight = 3
+                url = "teaching"
+
+
+        #    [[languages.en.menu.main]]
+        #        name = "About"
+        #        weight = 1.0
+        #        url = "about"
+
+          #  [[languages.en.menu.main]]
+          #      name = "Contact me"
+          #      weight = 1.0
+          #      url = "contact"
+
+
+    #[languages.cn]
+    #    languagecode = "cn"
+    #    languagename = "Chinese"
+    #    title = "欢迎来到我的第二脑"
+##
+  #      [languages.cn.params]
+  #          author = "克里斯"
+  #          description = "石見のサイト"
+  #          keywords = "blog,developer,strona domowa"
+  #ß          info = "老师，傻瓜"
+
+      #  [languages.cn.menu]
+      #      [[languages.cn.menu.main]]
+      #          name = "我是谁"
+      #          weight = 1.0
+      #          url = "cn/about"
+      #      [[languages.cn.menu.main]]
+      #          name = "博客"
+      #          weight = 2.0
+      #          url = "ja/posts"
+      #      [[languages.cn.menu.main]]
+      #          name = "看书"
+      #          weight = 3
+      #          url = "cn/books"
+      #      [[languages.cn.menu.main]]
+      #          name = "お問い合わせ"
+      #          weight = 5
+      #          url = "ja/contact"
