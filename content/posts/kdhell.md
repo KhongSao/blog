@@ -9,6 +9,6 @@ thumbnail = "<no value>"
 description = ""
 +++
 
-# Hell is other people
+## The Grim Reaper Reaps
 
 ![kdhell.jpeg](https://khongsao.github.io/blog/images/kdhell.jpeg)
