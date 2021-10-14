@@ -1,7 +1,7 @@
 +++
 title = "Tech and Teaching"
 date = "2018-08-03"
-draft = "true"
+draft = "false"
 +++
 
 ---
