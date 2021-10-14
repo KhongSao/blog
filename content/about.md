@@ -4,7 +4,7 @@ date = "2014-04-09"
 menu = "main"
 +++
 
-### So I'm Chris
+### So I am Chris
 
 On this site you will find my blog pertaining to teaching, society and my experiences
 
