@@ -8,6 +8,7 @@ draft = "false"
 Remember that CPD day, the one where the member of SLT had chosen to link a YouTube video in the PPT? Remember when the URL was clicked. Remember how, because it was in presentation mode the browser of the day (it was IE, let’s be real) played the video behind the Presentation? I do.
 
 I do because said member of staff was then at a loss for several minutes, for me it was an epoch, as to why there was sound but no video. Being a relatively new member of staff and early in my career, I did not have the occupational confidence to shout ALT-TAB. As time passes we gain confidence, sometimes overconfidence in our abilities (hence this blog). This post is the exemplification of that confidence in the hope that I never have to endure the technological Dark Ages that is an INSET day. Here you will find my musing on how to be more efficient as a teacher by using technology. My overall workflow is discussed, why it works for me, along with a selection of applications that I use on a day-to-day basis. For the most part, the sections can be read independently.
+![coffeedesk2](https://khongsao.github.io/blog/images/coffeedesk2.jpeg)  
 
 ![coffeedesk](https://khongsao.github.io/blog/images/coffeedesk.jpeg)  
 
