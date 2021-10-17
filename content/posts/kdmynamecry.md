@@ -8,7 +8,7 @@ thumbnail = "<no value>"
 description = ""
 +++
 
-![crycrymyname.jpeg](https://khongsao.github.io/blog/images/crycrymyname.jpeg)
+![crycrymyname.png](https://khongsao.github.io/blog/images/crycrymyname.png)
 
 Surely you cannot be penalised for having been exposed to all things Korea for over 10 years. As soon as the knives and short hair came out I started singing Cry Cry.
 
