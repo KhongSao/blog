@@ -22,7 +22,7 @@ description = ""
 
 ## Very Good
 1. Itaewon Class (2020)
-1. Hell is Other People (2019)
+1. [Hell is Other People](https://khongsao.github.io/blog/kdrama/kdhell/) (2019)
 1. Signal (2016)
 1. Live (2018)
 1. Taxi Driver (2021)
