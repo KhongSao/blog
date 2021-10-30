@@ -8,6 +8,9 @@ thumbnail = "<no value>"
 description = ""
 +++
 ## Love from Within
-![yumiscellsi.jpeg](https://khongsao.github.io/blog/images/yumiscellsi.jpeg)
+![yumiscellsi.jpeg](https://khongsao.github.io/blog/images/yumicellsi.jpeg)
 
 A solid romance drama with an original concept. Inspired from a Webtoon the protagonist Kim Yumi has her anthropomorphised cells on show ranging from Huger Cell to Lust Cell.
+Yumis-Cells.jpg
+
+![Yumis-Cells.jpg](https://khongsao.github.io/blog/images/Yumis-Cells.jpg)
