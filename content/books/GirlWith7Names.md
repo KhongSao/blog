@@ -1,6 +1,6 @@
 +++
 title = "The Girl With Seven Names"
-date = "2020-08-09"
+date = "2020-07-01"
 menu = "Books"
 +++
 
