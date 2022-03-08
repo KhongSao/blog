@@ -57,20 +57,20 @@ pygmentsUseClasses = true
 #    weight = 1
 #    url = "https://github.com/naro143/"
 # [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 2
-    url = "https://twitter.com/c4history/"
+#    name = "Twitter"
+#    icon = "fab fa-twitter"
+#    weight = 2
+#    url = "https://twitter.com/c4history/"
 # [[params.social]]
-    name = "YouTube"
-    icon = "fab fa-youtube"
-    weight = 2
-    url = "https://www.youtube.com/c/lessonsinhistory/"
+#    name = "YouTube"
+#    icon = "fab fa-youtube"
+#    weight = 2
+#    url = "https://www.youtube.com/c/lessonsinhistory/"
 # [[params.social]]
-    name = "Instagram"
-    icon = "fab fa-instagram"
-    weight = 2
-    url = "https://www.instagram.com/lessonsinhistory/"
+#    name = "Instagram"
+#    icon = "fab fa-instagram"
+#    weight = 2
+#    url = "https://www.instagram.com/lessonsinhistory/"
 # [[params.social]]
 #    name = "Reddit"
 #    icon = "fab fa-reddit"
