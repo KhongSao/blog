@@ -1,5 +1,5 @@
 baseurl = "https://khongsao.github.io/blog/"
-title = "Ashes to Ashes"
+title = "Mr O'Shea"
 
 theme = "coder-portfolio"
 
@@ -15,8 +15,8 @@ pygmentsUseClasses = true
 #disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Afterlife"
-    description = "Afterlife's personal website"
+    author = "Chris O'Shea"
+    description = "Chris O'Shea's personal website"
     keywords = "teaching,education,GCSE"
     info = "Teaching and Thoughts"
     avatarurl = "images/avatar.jpg"
