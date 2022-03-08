@@ -1,5 +1,5 @@
 baseurl = "https://khongsao.github.io/blog/"
-title = "Mr O'Shea"
+title = "Ashes to Ashes"
 
 theme = "coder-portfolio"
 
@@ -15,8 +15,8 @@ pygmentsUseClasses = true
 #disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Chris O'Shea"
-    description = "Chris O'Shea's personal website"
+    author = "Afterlife"
+    description = "Afterlife's personal website"
     keywords = "teaching,education,GCSE"
     info = "Teaching and Thoughts"
     avatarurl = "images/avatar.jpg"
@@ -31,7 +31,7 @@ pygmentsUseClasses = true
     snsShare = true
     # Popular sns share
     # if you want add sns. please message!
-    enableTwitterShare = true
+    enableTwitterShare = false
     enableFacebookShare = false
     enableHatenaShare = false
     enableLineShare = false
@@ -56,17 +56,17 @@ pygmentsUseClasses = true
 #    icon = "fab fa-github"
 #    weight = 1
 #    url = "https://github.com/naro143/"
-[[params.social]]
+# [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 2
     url = "https://twitter.com/c4history/"
-[[params.social]]
+# [[params.social]]
     name = "YouTube"
     icon = "fab fa-youtube"
     weight = 2
     url = "https://www.youtube.com/c/lessonsinhistory/"
-[[params.social]]
+# [[params.social]]
     name = "Instagram"
     icon = "fab fa-instagram"
     weight = 2
