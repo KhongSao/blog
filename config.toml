@@ -86,6 +86,7 @@ pygmentsUseClasses = true
         languagecode = "en"
         languagename = "English" # The language name to be displayed in the selector.
         title = "Lessons in..."
+        url = "https://khongsao.github.io/blog/"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
